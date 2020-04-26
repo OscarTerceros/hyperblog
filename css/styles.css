@@ -28,3 +28,10 @@ body{
 .post{
     padding: 1.5em;
 }
+.footer{
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
